@@ -55,6 +55,12 @@ const projectsData = [
     description: 'Successfully migrated John Louis Home from Magento 2.1.6 to Magento 2.4.6, ensuring a seamless transition with minimal downtime. Upgraded the platform for enhanced performance, security, and scalability, while preserving all products, customer data, orders, and custom functionalities. Optimized the new version with faster loading speeds, improved checkout experience, and modern security patches, ensuring a future-proof and efficient e-commerce operation. Conducted extensive testing and validation to guarantee a smooth user experience and compliance with the latest Magento standards.',
     tech: ['Magento', 'PHP', 'ReactJs', 'Bootstrap'],
     link: 'https://www.johnlouishome.com/'
+  },
+  {
+    title: 'NEDA Philippines Government Website',
+    description: 'Revamped the NEDA a Philippines Government Website using WordPress, modernizing its design, improving performance, and enhancing security. Optimized the site for better user experience, accessibility, and mobile responsiveness while ensuring seamless content management and compliance with government web standards.',
+    tech: ['Wordpress', 'PHP', 'React', 'Bootstrap', 'Javascript'],
+    link: 'https://sdg.neda.gov.ph/'
   }
   // Add more projects
 ]
