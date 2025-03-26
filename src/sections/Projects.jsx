@@ -49,6 +49,12 @@ const projectsData = [
     description: 'Built a Research Management System (RMS) for student data monitoring in Mindanao (BARMM), providing a centralized platform for tracking research progress, storing academic records, and generating reports for data-driven decision-making.',
     tech: ['Angular', 'Typescript', 'React', 'Laravel'],
     link: 'https://angular.spruko.com/xintra-tailwind/preview/auth/login'
+  },
+  {
+    title: 'John Louis Home',
+    description: 'Successfully migrated John Louis Home from Magento 2.1.6 to Magento 2.4.6, ensuring a seamless transition with minimal downtime. Upgraded the platform for enhanced performance, security, and scalability, while preserving all products, customer data, orders, and custom functionalities. Optimized the new version with faster loading speeds, improved checkout experience, and modern security patches, ensuring a future-proof and efficient e-commerce operation. Conducted extensive testing and validation to guarantee a smooth user experience and compliance with the latest Magento standards.',
+    tech: ['Magento', 'PHP', 'ReactJs', 'Bootstrap'],
+    link: 'https://www.johnlouishome.com/'
   }
   // Add more projects
 ]

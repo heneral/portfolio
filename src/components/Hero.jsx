@@ -16,7 +16,7 @@ export default function Hero() {
         Transforming ideas into functional web experiences.
         </h2>
         <p className="text-slate max-w-2xl">
-        I am a Full-Stack Developer & Web Designer with 10+ years of experience specializing in Shopify, Magento, WordPress, PHP, and JavaScript. I build high-performance e-commerce solutions and custom web applications that are scalable, user-friendly, and optimized for business growth.
+        I am a Full-Stack Developer & Web Designer with 10+ years of experience specializing in Shopify, Magento, WordPress, PHP, JavaScript, React, .Net and Angular. I build high-performance e-commerce solutions and custom web applications that are scalable, user-friendly, and optimized for business growth.
         </p>
       </motion.div>
     </section>
