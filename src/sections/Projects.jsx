@@ -28,7 +28,7 @@ const projectsData = [
   },
   {
     title: 'UK Funerals',
-    description: 'Developed the UK Funerals website from scratch using PHP, HTML, and Bootstrap, ensuring a fully responsive and user-friendly design. Implemented key functionalities such as service listings, online inquiries, and contact forms while optimizing the website for performance, accessibility, and SEO to enhance user experience and visibility.',
+    description: 'Developed the UK Funerals website from scratch using PHP, HTML, and Bootstrap, ensuring a fully responsive and user-friendly design. Implemented key functionalities such as Member List, Search Locators Services, and Contact forms while optimizing the website for performance, accessibility, and SEO to enhance user experience and visibility.',
     tech: ['PHP', 'HTML5', 'Bootstrap'],
     link: 'http://www.uk-funerals.co.uk/'
   },
@@ -55,7 +55,7 @@ const projectsData = [
 
 export default function Projects() {
   return (
-    <section id="projects" className="py-20 md:px-20">
+    <section id="projects" className="items-center px-6 py-20 md:px-20">
       <SectionHeading number="3" title="My Projects" />
       <div className="grid md:grid-cols-2 gap-6">
         {projectsData.map((project, index) => (

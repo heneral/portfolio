@@ -74,7 +74,7 @@ const experienceData = [
 
 export default function Experience() {
   return (
-    <section id="experience" className="py-20 md:px-20">
+    <section id="experience" className="items-center px-6 py-20 md:px-20">
       <SectionHeading number="2" title="Where I've Worked" />
       <div className="max-w-3xl">
         {experienceData.map((exp, index) => (
