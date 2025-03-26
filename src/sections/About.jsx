@@ -40,7 +40,10 @@ export default function About() {
               'Adobe After Effects',
               'Sketch',
               'Docker',
-              'Autocad'
+              'Autocad',
+              'Python',
+              'Liquid',
+              'Ruby on Rails'
             ].map((tech) => (
               <li 
                 key={tech} 
