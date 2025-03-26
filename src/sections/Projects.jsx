@@ -48,7 +48,7 @@ const projectsData = [
     title: 'World Bank Group - Research Management System',
     description: 'Built a Research Management System (RMS) for student data monitoring in Mindanao (BARMM), providing a centralized platform for tracking research progress, storing academic records, and generating reports for data-driven decision-making.',
     tech: ['Angular', 'Typescript', 'React', 'Laravel'],
-    link: 'https://angular.spruko.com/xintra-tailwind/preview/auth/login'
+    link: 'http://searchart.online/auth/login'
   },
   {
     title: 'John Louis Home',

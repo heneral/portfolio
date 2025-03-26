@@ -56,7 +56,7 @@ const experienceData = [
     role: 'PHP Developer/Magento Developer/Software Developer',
     period: 'November 2011 – December 2013',
     details: [
-      'Developed company software applications, including a biometrics system, finance system, booking system, and book system, using PHP and JavaScript.',
+      'Developed company software applications, including a biometrics system, finance system, booking system, and book system, using PHP, JavaScript and Moodle Framework.',
       'Managed the company e-store using Magento, developed a module integrating a payment method, and created a custom shipping method, product categories, and sorting layout.'
     ]
   },
