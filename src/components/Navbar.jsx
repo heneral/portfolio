@@ -1,19 +1,26 @@
 import { useState } from 'react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import logo from '../images/logo.png'
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
   const links = [
     { name: 'About', href: '#about' },
     { name: 'Experience', href: '#experience' },
-    { name: 'Work', href: '#work' },
+    { name: 'Projects', href: '#projects' },
     { name: 'Contact', href: '#contact' }
   ]
 
   return (
     <nav className="fixed w-full bg-navy/90 backdrop-blur-sm z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-        <a href="/" className="text-green font-mono text-xl">LOGO</a>
+        <a href="/" className="text-green font-mono text-xl">
+          <img 
+            src={logo} 
+            alt="Your Name Logo"
+            className="h-8 w-auto hover:opacity-80 transition-all"
+            />
+        </a>
         
         {/* Desktop Menu */}
         <div className="hidden md:flex gap-8">
@@ -21,7 +28,7 @@ export default function Navbar() {
             <a
               key={link.name}
               href={link.href}
-              className="text-light-slate hover:text-green transition-colors text-sm font-mono"
+              className="text-light-slate hover:text-white transition-colors text-sm font-mono"
             >
               <span className="text-customyellow">0{links.indexOf(link) + 1}.</span> {link.name}
             </a>

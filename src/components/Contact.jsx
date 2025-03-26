@@ -29,14 +29,14 @@ export default function Contact() {
           name="name"
           placeholder="Name"
           required
-          className="w-full bg-light-navy rounded px-4 py-3 text-lightest-slate placeholder-slate focus:outline-none focus:ring-2 focus:ring-green"
+          className="w-full bg-light-navy rounded px-4 py-3 text-lightest-slate placeholder-slate focus:outline-none focus:ring-2 focus:ring-customyellow"
         />
         <input 
           type="email" 
           name="email"
           placeholder="Email"
           required
-          className="w-full bg-light-navy rounded px-4 py-3 text-lightest-slate placeholder-slate focus:outline-none focus:ring-2 focus:ring-green"
+          className="w-full bg-light-navy rounded px-4 py-3 text-lightest-slate placeholder-slate focus:outline-none focus:ring-2 focus:ring-customyellow"
         />
       </div>
       <textarea
@@ -44,11 +44,11 @@ export default function Contact() {
         rows="5"
         placeholder="Message"
         required
-        className="w-full bg-light-navy rounded px-4 py-3 text-lightest-slate placeholder-slate focus:outline-none focus:ring-2 focus:ring-green"
+        className="w-full bg-light-navy rounded px-4 py-3 text-lightest-slate placeholder-slate focus:outline-none focus:ring-2 focus:ring-customyellow"
       />
       <button
         type="submit"
-        className="px-8 py-3 bg-transparent border-2 border-green text-green rounded hover:bg-green/10 transition-colors font-mono"
+        className="px-8 py-3 bg-transparent border-2 border-customyellow text-customyellow rounded hover:bg-green/10 transition-colors font-mono"
       >
         Send Message
       </button>
