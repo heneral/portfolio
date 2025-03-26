@@ -61,6 +61,12 @@ const projectsData = [
     description: 'Revamped the NEDA a Philippines Government Website using WordPress, modernizing its design, improving performance, and enhancing security. Optimized the site for better user experience, accessibility, and mobile responsiveness while ensuring seamless content management and compliance with government web standards.',
     tech: ['Wordpress', 'PHP', 'React', 'Bootstrap', 'Javascript'],
     link: 'https://sdg.neda.gov.ph/'
+  },
+  {
+    title: 'PARIMA - Pan-Asia Risk and Insurance Management Association',
+    description: 'Modified the PARIMA website using WordPress, Created event and landing pages, and optimized performance to reduce bounce rates. Designed email templates for events and developed a WordCloud plugin for survey',
+    tech: ['Wordpress', 'PHP', 'jQuery', 'Bootstrap', 'Javascript', 'ReactJs'],
+    link: 'https://parima.org/'
   }
   // Add more projects
 ]
