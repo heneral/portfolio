@@ -8,11 +8,10 @@ export default function About() {
       <div className="grid md:grid-cols-5 gap-8">
         <div className="md:col-span-3 space-y-4">
           <p className="text-slate">
-            Hello! My name is Chad with a passion for building digital experiences. 
-            Here are a few technologies I've been working with recently:
+          Hello! My name is Chad, and I'm passionate about crafting seamless and engaging digital experiences. With a strong foundation in modern web technologies, I specialize in building innovative, high-performance solutions. Here are some of the cutting-edge tools and technologies I've been working with recently:
           </p>
           <ul className="grid grid-cols-2 gap-2 text-sm font-mono">
-            {['JavaScript (ES6+)', 'React', 'Node.js', 'TypeScript', 'GraphQL', 'Magento', 'Shopify', 'Angular', 'PHP', 'VB.Net', 'C#', 'SQL', 'Database Management Systems', 'jQuery', 'Bootstrap', 'TailwindCss', 'Joomla', 'Woocommerce','Prestashop', 'Video Editing', 'Email Template Creator'].map((tech) => (
+            {['JavaScript (ES6+)', 'React', 'Node.js', 'TypeScript', 'GraphQL', 'Magento', 'Shopify', 'Angular', 'PHP', 'VB.Net', 'C#', 'SQL', 'Database Management Systems', 'jQuery', 'Bootstrap', 'TailwindCss', 'Joomla', 'Woocommerce','Prestashop', 'Video Editing', 'Email Template Creator', 'Photoshop', 'Adobe Illustrator', 'Adobe After Effect', 'Sketch', 'Docker', 'Autocad'].map((tech) => (
               <li key={tech} className="flex items-center text-slate">
                 <span className="text-customyellow mr-2">▹</span>
                 {tech}
