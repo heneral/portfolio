@@ -11,7 +11,7 @@ const experienceData = [
       'Implement Video optimization',
       'Created an extension for countdown email subscriptions and modified some extension like backorders and subscription list storage backend, debugged and fixed various issues',
       'Integrated new features, and migrated an old website to Magento 2.4.6',
-      'Create a angular automation car system using angular'
+      'Create an angular automation car system using angular'
     ]
   },  
   {
