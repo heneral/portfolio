@@ -54,7 +54,7 @@ export default function Hero() {
         </motion.div>
 
         <p className="text-slate max-w-2xl">
-          I am a Web Developer & Web Designer with 10+ years of experience specializing in Shopify, Magento, WordPress, PHP, JavaScript, React, .Net and Angular. I build high-performance e-commerce solutions and custom web applications that are scalable, user-friendly, and optimized for business growth.
+          I am a Full Stack Developer with 10+ years of experience specializing in Shopify, Magento, WordPress, PHP, JavaScript, React, .Net and Angular. I build high-performance e-commerce solutions and custom web applications that are scalable, user-friendly, and optimized for business growth.
         </p>
       </motion.div>
     </section>
