@@ -46,8 +46,8 @@ const projectsData = [
   },
   {
     title: 'World Bank Group - Research Management System',
-    description: 'Built a Research Management System (RMS) for student data monitoring in Mindanao (BARMM), providing a centralized platform for tracking research progress, storing academic records, and generating reports for data-driven decision-making.',
-    tech: ['Typescript', 'React'],
+    description: 'Developed a comprehensive Research Management System (RMS) web and mobile application for student data monitoring in Mindanao (BARMM). The cross-platform solution provides a centralized platform for tracking research progress, storing academic records, and generating reports for data-driven decision-making, accessible from both desktop and mobile devices.',
+    tech: ['Typescript', 'React', 'React Native'],
     link: 'https://adpa.space/'
   },
   {
