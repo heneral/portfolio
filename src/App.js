@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import About from './sections/About'
 import Experience from './sections/Experience'
 import Projects from './sections/Projects'
+import GithubProjects from './sections/GithubProjects'
 import ContactSection from './sections/ContactSection'
 import Footer from './components/Footer'
 
@@ -17,6 +18,7 @@ export default function App() {
           <About />
           <Experience />
           <Projects />
+          <GithubProjects />
           <ContactSection />
         </main>
         <Footer />
