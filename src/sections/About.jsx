@@ -43,7 +43,11 @@ export default function About() {
               'Autocad',
               'Python',
               'Liquid',
-              'Ruby on Rails'
+              'Ruby on Rails',
+              'LLM',
+              'RAG',
+              'Next.js',
+              'CSS3'
             ].map((tech) => (
               <li 
                 key={tech} 
