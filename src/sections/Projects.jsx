@@ -4,43 +4,43 @@ import ProjectCard from '../components/ProjectCard' // This should be used below
 const projectsData = [
   {
     title: 'Azalea Hotel and Restaurant Baguio',
-    description: 'Created the Azalea Hotel and Restaurant Baguio website from scratch using WordPress, including custom themes and plugins for booking, reservations, and menu management.',
+    description: 'Architected and deployed a fully custom WordPress website for Azalea Hotel and Restaurant Baguio, including proprietary plugins for real-time booking, reservations, and menu management.',
     tech: ['Wordpress', 'Javascript(es6)', 'Google Analytics', 'SEO'],
     link: 'https://www.azaleabaguio.com/'
   },
   {
     title: 'Chinkee Tan Blog and e Store',
-    description: 'Revamped the Chinkee Tan website using WordPress and WP Engine, set up email hosting, and developed a Shopify store for book sales.',
+    description: 'Orchestrated a full-scale digital overhaul for Chinkee Tan by migrating the WordPress blog to WP Engine for optimized performance, configuring secure email infrastructure, and architecting a custom Shopify storefront to scale book sales.',
     tech: ['Wordpress', 'Javascript(es6)', 'Shopify', 'Active Campaign', 'Google Analytics', 'SEO', 'Elementor'],
     link: 'https://chinkeetan.com/'
   },
   {
     title: 'Aboitiz Company',
-    description: 'Revamped the Aboitiz website using WordPress, enhancing its design, performance, and user experience. Implemented a modern, responsive layout, optimized site speed, and improved SEO for better visibility. Additionally, integrated advanced security features, streamlined content management, and ensured seamless navigation to enhance user engagement and accessibility.',
+    description: 'Modernized the Aboitiz corporate platform by integrating a Nuxt.js frontend with WordPress, leveraging CanvasJS for data visualization and jQuery/MomentJS to deliver a high-performance, SEO-optimized, and secure user experience.',
     tech: ['Wordpress', 'CanvasJS', 'jQuery', 'MomentJS', 'Nuxt.js'],
     link: 'https://aboitiz.com/'
   },
   {
     title: 'Universal Home Theatre',
-    description: 'Migrated the entire store from Prestashop to WooCommerce, ensuring a seamless transition of products, customer data, and order history while maintaining full website functionality. Optimized the new WooCommerce setup by configuring payment gateways, shipping methods, SEO, and performance enhancements to improve user experience and business operations.',
+    description: 'Led a seamless platform migration to WooCommerce for Universal Home Theatre, optimizing business operations through advanced payment gateway configurations and tracking integrations like Bing UET and Infusionsoft to drive marketing ROI.',
     tech: ['Woocommerce', 'Infusionsoft', 'Google Analytics', 'Bing Universal Event Tracking', 'Cloudflare JS'],
     link: 'https://www.universalhometheatre.com.au/'
   },
   {
     title: 'UK Funerals',
-    description: 'Developed the UK Funerals website from scratch using PHP, HTML, and Bootstrap, ensuring a fully responsive and user-friendly design. Implemented key functionalities such as Member List, Search Locators Services, and Contact forms while optimizing the website for performance, accessibility, and SEO to enhance user experience and visibility.',
+    description: 'Developed the UK Funerals web ecosystem from the ground up using PHP and HTML5, delivering a high-performance, SEO-optimized interface featuring interactive service locators and streamlined member management tools.',
     tech: ['PHP', 'HTML5', 'Bootstrap'],
     link: 'http://www.uk-funerals.co.uk/'
   },
   {
     title: 'Home Zone',
-    description: 'Migrated Home Zone Furniture from WooCommerce to Shopify, ensuring a seamless transfer of products, customer data, and order history while maintaining website functionality. Optimized the Shopify setup by configuring payment gateways, shipping options, and a customized theme to enhance user experience, improve site performance, and streamline store management.',
+    description: 'Orchestrated the transition of Home Zone Furniture to Shopify, optimizing the ecosystem with custom React components, streamlined payment integrations, and performance-tuned shipping configurations to enhance the end-to-end customer journey.',
     tech: ['Shopify', 'React', 'jQuery' ],
     link: 'https://homezonefurniture.com/'
   },
   {
     title: 'Coffin World',
-    description: 'Successfully transitioned CoffinWorld from Magento 1.8 to Shopify, modernizing the platform for improved performance, security, and ease of management. Rebuilt the store structure, migrated product catalogs, customer records, and historical orders while ensuring data integrity. Customized the Shopify theme to align with the brand’s aesthetics, integrated necessary payment and shipping solutions, and optimized the site for better navigation and mobile responsiveness, create a plugin for branch locator map and providing a seamless shopping experience for customers.',
+    description: 'Led the legacy migration of Coffin World from Magento 1.8 to Shopify, maintaining total data integrity across complex catalogs while developing a custom jQuery branch locator plugin and integrating Live Chat to enhance real-time customer engagement.',
     tech: ['Shopify', 'jQuery', 'Google Analytics', 'Live Chat' ],
     link: 'https://coffinworld.com.au/'
   },
@@ -58,13 +58,13 @@ const projectsData = [
   },
   {
     title: 'NEDA Philippines Government Website',
-    description: 'Revamped the NEDA a Philippines Government Website using WordPress, modernizing its design, improving performance, and enhancing security. Optimized the site for better user experience, accessibility, and mobile responsiveness while ensuring seamless content management and compliance with government web standards.',
+    description: 'Modernized the NEDA Philippines official website by integrating a React-based frontend with WordPress, ensuring high-speed performance, advanced security, and full compliance with government accessibility standards.',
     tech: ['Wordpress', 'PHP', 'React', 'Bootstrap', 'Javascript'],
     link: 'https://sdg.neda.gov.ph/'
   },
   {
     title: 'PARIMA - Pan-Asia Risk and Insurance Management Association',
-    description: 'Modified the PARIMA website using WordPress, Created event and landing pages, and optimized performance to reduce bounce rates. Designed email templates for events and developed a WordCloud plugin for survey',
+    description: 'Upgraded the PARIMA website using WordPress and React, delivering a custom WordCloud plugin and performance-tuned event pages to streamline survey data collection and improve user engagement.',
     tech: ['Wordpress', 'PHP', 'jQuery', 'Bootstrap', 'Javascript', 'ReactJs'],
     link: 'https://parima.org/'
   }
