@@ -7,10 +7,10 @@ const experienceData = [
     role: 'Senior Magento and Angular Developer',
     period: 'Aug 2023 - January 2025',
     details: [
-      'Spearheaded the migration of legacy enterprise websites to Magento 2.4.6, ensuring zero data loss and improved security protocols.',
-      'Engineered a custom Angular-based automation system for automotive workflows, increasing operational efficiency.',
-      'Developed high-conversion Magento extensions, including countdown subscription modules and modified backorder logic.',
-      'Optimized video delivery and frontend assets, significantly reducing page load times and bounce rates.'
+      'Led the migration of legacy enterprise websites to Magento 2.4.6, achieving zero data loss while implementing enhanced security protocols.',
+      'Engineered a custom Angular-based automation system for automotive workflows that increased operational efficiency by streamlining repetitive tasks and reducing manual processing time.',
+      'Engineered high-conversion Magento extensions, including countdown subscription modules and modified backorder logic, to enhance customer engagement and operational efficiency.',
+      'Accelerated video delivery and frontend assets optimization, reducing page load times and bounce rates significantly.'
     ]
   },  
   {
