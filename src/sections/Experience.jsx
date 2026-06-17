@@ -18,10 +18,10 @@ const experienceData = [
     role: 'Full Stack Web Developer / Designer',
     period: 'November 2018 - August 2023',
     details: [
-      'Managed and overhauled the corporate WordPress ecosystem, focusing on responsive design and performance tuning.',
-      'Designed and deployed high-traffic event landing pages and custom WordCloud plugins for interactive data visualization.',
-      'Created sophisticated HTML email templates and automated data import workflows to support marketing initiatives.',
-      'Mentored junior team members in debugging complex UI/UX issues and asset optimization.'
+      'Transformed the corporate WordPress ecosystem by implementing responsive design architecture and executing comprehensive performance tuning across all properties.',
+      'Architected and deployed high-traffic event landing pages and custom WordCloud plugins that enabled interactive data visualization.',
+      'Engineered sophisticated HTML email templates and automated data import workflows that accelerated marketing initiative deployment and scalability.',
+      'Mentored junior team members through systematic debugging of complex UI/UX issues and asset optimization techniques, resulting in improved code quality and reduced development time.'
     ]
   },
   {    
@@ -29,11 +29,11 @@ const experienceData = [
     role: 'Senior Web Developer/Web Designer',
     period: 'September 2016 - November 2018',
     details: [
-      'Delivered end-to-end WordPress and Shopify solutions for diverse international clients, from concept to deployment.',
-      'Conducted rigorous mobile application testing, executing test plans to ensure cross-platform compatibility and stability.',
-      'Improved site SEO and performance metrics by implementing modern asset-loading techniques and cleaner code structures.',
-      'Handled Shopify Store and create pages (landing pages), edit product images, and was a graphic designer.',
-      'Developing and executing test plans for new and existing applications. Monitoring and analyzing application performance.'
+      'Architected and deployed end-to-end WordPress and Shopify solutions for diverse international clients, translating requirements from concept through production launch.',
+      'Executed comprehensive mobile application testing across multiple platforms, validating cross-platform compatibility and system stability through structured test plans.',
+      'Boosted site SEO and performance metrics by implementing modern asset-loading techniques and refactoring code structures for improved efficiency.',
+      'Managed full Shopify store operations including designing and deploying landing pages, optimizing product imagery, and executing graphic design assets to enhance e-commerce performance.',
+      'Developed and executed comprehensive test plans for 10+ new and existing applications while monitoring and analyzing real-time application performance metrics to identify optimization opportunities.'
     ]
   },
   {    
