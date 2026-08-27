@@ -16,6 +16,9 @@ export default function About() {
             {[
               'JavaScript (ES6+)',
               'React',
+              'Express.js',
+              'Next.js',
+              'Vue.js',
               'Node.js',
               'TypeScript',
               'GraphQL',
@@ -25,7 +28,8 @@ export default function About() {
               'PHP',
               'VB.Net',
               'C#',
-              'SQL',
+              'R Script',
+              'SaaS',
               'Database Management Systems',
               'jQuery',
               'Bootstrap',
@@ -46,8 +50,9 @@ export default function About() {
               'Ruby on Rails',
               'LLM',
               'RAG',
-              'Next.js',
-              'CSS3'
+              'CSS3',
+              'REST APIs',
+              'JSON, webhooks, and API integrations'
             ].map((tech) => (
               <li 
                 key={tech} 
