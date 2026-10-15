@@ -27,6 +27,7 @@ export default function About() {
               'Angular',
               'PHP',
               'VB.Net',
+              '.Net',
               'C#',
               'R Script',
               'SaaS',
@@ -35,6 +36,9 @@ export default function About() {
               'Bootstrap',
               'Tailwind CSS',
               'Joomla',
+              'Django',
+              'Java',
+              'Spring MVC',
               'WooCommerce',
               'Prestashop',
               'Video Editing',
@@ -52,7 +56,13 @@ export default function About() {
               'RAG',
               'CSS3',
               'REST APIs',
-              'JSON, webhooks, and API integrations'
+              'JSON, webhooks, and API integrations',
+              'Cloud Platforms (AWS, Azure, Google Cloud)',
+              'Version Control (Git, GitHub, GitLab)',
+              'Agile and Scrum methodologies',
+              'CI/CD pipelines',
+              'A/B Testing & CRO',
+              'E-commerce & Payments',
             ].map((tech) => (
               <li 
                 key={tech} 
